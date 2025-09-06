@@ -20,12 +20,12 @@
 <!-- Professional Profile Cards -->
 <table align="center">
 <tr>
-<td align="center">
-  <a href="https://app.daily.dev/abiyhailu"><img src="https://api.daily.dev/devcards/v2/vkahN9kQjGwTcHhYgm23f.png?type=wide&r=1xt" width="380" alt="Abiy Hailu's Dev Card"/></a>
-</td>
-<td align="center">
-  <a href="https://gitroll.io/profile/uxToZg7xLiqNu580uR3d6XS7r2S62" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uxToZg7xLiqNu580uR3d6XS7r2S62?theme=light" width="300" alt="GitRoll Profile Badge"/></a>
-</td>
+ <td align="center">
+   <a href="https://app.daily.dev/abiyhailu"><img src="https://api.daily.dev/devcards/v2/vkahN9kQjGwTcHhYgm23f.png?type=wide&r=1xt" width="1140" alt="Abiy Hailu's Dev Card"/></a>
+ </td>
+  <td align="center">
+    <a href="https://gitroll.io/profile/uxToZg7xLiqNu580uR3d6XS7r2S62" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uxToZg7xLiqNu580uR3d6XS7r2S62?theme=dark" alt="GitRoll Profile Badge"/></a>
+  </td>
 </tr>
 </table>
 
@@ -71,12 +71,14 @@
 
 <!-- TryHackMe Profile -->
 <a href="https://tryhackme.com/p/abiy.hailu-ug" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/abiy.hailu-ug.png" alt="TryHackMe" width="200"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/abiy.hailu-ug.png" alt="TryHackMe" width="360"/>
 </a>
+
+<br><br>
 
 <!-- Credly Certifications -->
 <a href="https://www.credly.com/users/abiy-h-getachew" target="_blank">
-  <img src="https://img.shields.io/badge/Credly-Click%20here%20to%20see%20my%20certifications-FF6B35?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Certifications"/>
+  <img src="https://img.shields.io/badge/Credly-Click%20here%20to%20see%20my%20certifications-FF6B35?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Certifications" width="400"/>
 </a>
 
 </div>
