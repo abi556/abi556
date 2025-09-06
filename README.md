@@ -21,7 +21,7 @@
 <table align="center">
 <tr>
  <td align="center">
-   <a href="https://app.daily.dev/abiyhailu"><img src="https://api.daily.dev/devcards/v2/vkahN9kQjGwTcHhYgm23f.png?type=wide&r=1xt" width="1140" alt="Abiy Hailu's Dev Card"/></a>
+   <a href="https://app.daily.dev/abiyhailu" target="_blank"><img src="https://api.daily.dev/devcards/v2/vkahN9kQjGwTcHhYgm23f.png?type=wide&r=1xt" width="1140" alt="Abiy Hailu's Dev Card"/></a>
  </td>
   <td align="center">
     <a href="https://gitroll.io/profile/uxToZg7xLiqNu580uR3d6XS7r2S62" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uxToZg7xLiqNu580uR3d6XS7r2S62?theme=dark" alt="GitRoll Profile Badge"/></a>
@@ -90,8 +90,8 @@
 
 ### 📫 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/abiy-hailu-a780b9294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abiy-hailu" height="30" width="40" /></a>
-<a href="mailto:abymit@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/abiy-hailu-a780b9294/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abiy-hailu" height="30" width="40" /></a>
+<a href="mailto:abymit@outlook.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
 ### 🎯 Current Focus
