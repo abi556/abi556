@@ -69,13 +69,6 @@
 
 <div align="center">
 
-<!-- TryHackMe Profile -->
-<a href="https://tryhackme.com/p/abiy.hailu-ug" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/abiy.hailu-ug.png" alt="TryHackMe" width="360"/>
-</a>
-
-<br>
-
 <!-- Credly Certifications -->
 <a href="https://www.credly.com/users/abiy-h-getachew" target="_blank">
   <img src="https://img.shields.io/badge/Credly-Click%20here%20to%20see%20my%20certifications-FF6B35?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Certifications" width="400"/>
