@@ -95,9 +95,9 @@
 
 ### 🎯 Current Focus
 - 🔭 **Currently**: Software Engineering student at Addis Ababa University
-- 🌱 **Learning**: Machine Learning, Enterprise Software Development, and Cybersecurity
+- 🌱 **Learning**: Generative AI and NLP
 - 👯 **Looking to collaborate on**: AI/ML projects, Web developments, and Mobile applications
-- 💡 **Interests**: AI/ML, Generative AI, NLP, LLM, Blockchain technology, Ethical Hacking, Full-stack Development
+- 💡 **Interests**: AI/ML, Generative AI, NLP, LLM, ,  Full-stack Development
 
 ### 📊 Profile Views
 counting of visitors to this page in this section started from September 6, 2025
