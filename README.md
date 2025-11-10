@@ -14,7 +14,7 @@
 ![](https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Abiy+Hailu;🎓+SWE+Student+%7C+AAU;🤖+AI+and+ML+Developer; Full+Stack+Developer+👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%F0%9F%91%8B%2C+I'm+Abiy+Hailu.;SWE+Student+%40+AAU%2C;Full+Stack+Developer+%26;Junior+AI%2FML+Developer" alt="Typing SVG" />
 </div>
 
 <!-- Professional Profile Cards -->
