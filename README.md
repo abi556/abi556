@@ -72,14 +72,6 @@
 <a href="https://www.credly.com/users/abiy-h-getachew" target="_blank">
   <img src="https://img.shields.io/badge/Credly-Click%20here%20to%20see%20my%20certifications-FF6B35?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Certifications" width="400"/>
 </a>
-
-<br>
-
-<!-- LeetCode Profile -->
-<a href="https://leetcode.com/u/z6lojmCFNQ/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" width="400"/>
-</a>
-
 </div>
 
 ### 🏆 GitHub Trophies
