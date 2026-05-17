@@ -46,8 +46,8 @@
 ![Abiy's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=abi556&theme=github-compact&hide_border=true&area=true&custom_title=Abiy's%20GitHub%20Activity)
 
 ### GitHub Trophies
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abi556" alt="abi556" /></a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abi556&theme=gruvbox&column=5&margin-w=15&margin-h=15" />
 </p>
 
 ### Connect with me:
