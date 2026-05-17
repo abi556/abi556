@@ -41,11 +41,6 @@
 **Abiy's github activity graph**
 
 
-<!--   stats + languages -->
-| . | . |
-|---|---|
-| ![Abiy's github stats](https://github-readme-stats.vercel.app/api?username=abi556&show_icons=true&theme=radical&include_all_commits=true) | ![Abiy's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abi556&theme=radical&layout=compact) |
-
 <img src="https://streak-stats.demolab.com/?user=abi556&theme=oceanic-next&card_width=900" alt="Abiy's streak stats">
 
 <!--   profile-green-animate -->
