@@ -1,20 +1,14 @@
-![](https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_up.svg)
-
+<!--   my-header-img -->
+![](https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png)
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/abi556/abi556"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/abi556/abi556"><img src="https://img.shields.io/badge/Student-SWE%20%7C%20AAU-blue.svg"></a>
-    <a href="https://github.com/abi556/abi556/graphs/contributors"><img src="https://img.shields.io/github/contributors/abi556/abi556?color=blue"></a>
-    <a href="https://github.com/abi556/abi556/stargazers"><img src="https://img.shields.io/github/stars/abi556/abi556.svg?logo=github"></a>
-    <a href="https://github.com/abi556/abi556/network/members"><img src="https://img.shields.io/github/forks/abi556/abi556.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=abi556.abi556" alt="visitors"/>   
 </p>
 
-<!--   my-header-img -->
-![](https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png)
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%F0%9F%91%8B%2C+I'm+Abiy+Hailu.;SWE+Student+%40+AAU%2C;Full+Stack+Developer+%26;Junior+AI%2FML+Developer" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%F0%9F%91%8B%2C+I'm+Abiy+Hailu+Getachew.;Software +%40+AAU%2C;Full+Stack+Developer+%26;Junior+AI%2FML+Developer](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Abiy+H+Getachew+.;A+Software+Engineer%2C;DevOps+Specialist+%26;Junior+MLOps+Engineer)" alt="Typing SVG" />
 </div>
 
 <!-- Professional Profile Cards -->
@@ -29,29 +23,23 @@
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
-</div>
-
-
-
 <!--   my-skills -->
 | Property | Data |
 |----------|------|
-| **🎓 Education** | Software Engineering Student at Addis Ababa University (AAiT) |
-| **💻 Development** | ![Web Development](https://img.shields.io/badge/-Web%20Development-FF6600?style=flat&logoColor=white) ![AI/ML Development](https://img.shields.io/badge/-AI%2FML%20Development-4C8CBF?style=flat&logoColor=white) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white) ![Enterprise Software](https://img.shields.io/badge/-Enterprise%20Software-FFD700?style=flat&logoColor=white) ![Blockchain](https://img.shields.io/badge/-Blockchain-9C27B0?style=flat&logoColor=white) |
-| **🛠️ Languages & Tools** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) |
-| **🤖 Web & AI/ML** | ![ReactJS](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
-| **📱 Mobile Development** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) |
-| **🗄️ Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
-| **🛠️ Tools & IDE** | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat&logo=docker&logoColor=black)|
+| ** Education** | BSc in Software Engineering, Addis Ababa University (AAU) |
+| ** Development** | ![Web Development](https://img.shields.io/badge/-Web%20Development-FF6600?style=flat&logoColor=white) ![AI/ML Development](https://img.shields.io/badge/-AI%2FML%20Development-4C8CBF?style=flat&logoColor=white) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white) ![Mobile App](https://img.shields.io/badge/-Enterprise%20Software-FFD700?style=flat&logoColor=white) ![Automation](https://img.shields.io/badge/n8n-Workflows-orange?style=for-the-badge&logo=n8n) |
+| ** Languages ** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)|
+| ** Web ** | ![ReactJS](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff) ![Tailwind ](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)|
+| ** AI/ML & Data Science ** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) 1[Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40) ![Power BI](https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=black) |
+| ** Mobile Development** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) |
+| ** Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Supabase](https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge%22) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
+| ** Tools & IDE** | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat&logo=docker&logoColor=black)|
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
+### GitHub Activity Graph:
 
 **Abiy's github activity graph**
 
-![Abiy's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=abi556&theme=react-dark&hide_border=true&area=true)
 
 <!--   stats + languages -->
 | . | . |
@@ -64,34 +52,24 @@
 
 ![Abiy's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=abi556&theme=github-compact&hide_border=true&area=true&custom_title=Abiy's%20GitHub%20Activity)
 
-### 🏆 Professional Profiles & Achievements
-
-<div align="center">
-
-<!-- Credly Certifications -->
-<a href="https://www.credly.com/users/abiy-h-getachew" target="_blank">
-  <img src="https://img.shields.io/badge/Credly-Click%20here%20to%20see%20my%20certifications-FF6B35?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Certifications" width="400"/>
-</a>
-</div>
-
-### 🏆 GitHub Trophies
+### GitHub Trophies
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abi556&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="abi556" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abi556" alt="abi556" /></a>
 </p>
 
-### 📫 Connect with me:
+### Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/abiy-hailu-a780b9294/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abiy-hailu" height="30" width="40" /></a>
 <a href="mailto:abymit@outlook.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
-### 🎯 Current Focus
-- 🔭 **Currently**: Software Engineering student at Addis Ababa University
-- 🌱 **Learning**: Generative AI and NLP
-- 👯 **Looking to collaborate on**: AI/ML projects, Web developments, and Mobile applications
-- 💡 **Interests**: AI/ML, Generative AI, NLP, LLM, ,  Full-stack Development
 
-### 📊 Profile Views
+-  **Currently**: Software Engineering student at Addis Ababa University
+-  **Learning**: Generative AI and NLP
+-  **Looking to collaborate on**: AI/ML projects, Web developments, and Mobile applications
+-  **Interests**: AI/ML, Generative AI, NLP, LLM, ,  Full-stack Development
+
+###  Profile Views
 counting of visitors to this page in this section started from September 6, 2025
 <div align="center">
   <img src="https://count.getloli.com/get/@abi556.github.readme" alt="Profile Views" />
