@@ -43,24 +43,11 @@
 
 <!--   profile-green-animate -->
 
-![Abiy's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=abi556&theme=github-compact&hide_border=true&area=true&custom_title=Abiy's%20GitHub%20Activity)
-
 ### GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abi556&theme=gruvbox&column=5&margin-w=15&margin-h=15" />
 </p>
 
-### Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/abiy-hailu-a780b9294/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abiy-hailu" height="30" width="40" /></a>
-<a href="mailto:abymit@outlook.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-</p>
-
-
--  **Currently**: Software Engineering student at Addis Ababa University
--  **Learning**: Generative AI and NLP
--  **Looking to collaborate on**: AI/ML projects, Web developments, and Mobile applications
--  **Interests**: AI/ML, Generative AI, NLP, LLM, ,  Full-stack Development
 
 ###  Profile Views
 counting of visitors to this page in this section started from September 6, 2025
@@ -71,6 +58,3 @@ counting of visitors to this page in this section started from September 6, 2025
 
 #### Thanks for visiting! :heart:
 
-
-
-![](https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_down.svg)
