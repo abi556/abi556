@@ -36,7 +36,7 @@
 | **Tools & IDE** | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat&logo=docker&logoColor=black)|
 
 <!--   GitHub stats graph -->
-### GitHub Activity & Graph:
+### GitHub Activity:
 
 
 <img src="https://streak-stats.demolab.com/?user=abi556&theme=oceanic-next&card_width=900" alt="Abiy's streak stats">
@@ -54,6 +54,7 @@ counting of visitors to this page in this section started from September 6, 2025
 <div align="center">
   <img src="https://count.getloli.com/get/@abi556.github.readme" alt="Profile Views" />
 </div>
+
 
 
 #### Thanks for visiting! :heart:
